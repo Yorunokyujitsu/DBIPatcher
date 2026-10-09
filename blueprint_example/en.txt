@@ -1,0 +1,19 @@
+{0}-EN FW: {2}.{3} SDK: {4}
+Main menu
+Browse SD card
+Viewing USB drive [{}]
+Viewing MTP device [{}]
+Install via DBIbackend
+Install from cartridge
+Browsing HTTP/FTP/Github server...
+Installed games
+Installed homebrew
+Tools
+Tickets
+Save Data
+Start MTP connection
+Start FTP server...
+Starting HTTP server...
+Activity Log
+DBI Settings
+Exit
