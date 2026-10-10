@@ -1,5 +1,5 @@
 # DBI Patcher v5
-Full Translation Patcher for DBI 895–912+.
+Full Translation Patcher for DBI 870–912+.
 
 ## Snapshots
 <p align="center">
