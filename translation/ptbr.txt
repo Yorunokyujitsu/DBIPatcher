@@ -1,0 +1,19 @@
+{0} pt-BR FW: {2}.{3} SDK: {4}
+Menu principal
+Explorar cartão SD
+Visualizando unidade USB [{}]
+Visualizando dispositivo MTP [{}]
+Instalação via DBIbackend
+Instalar do cartucho
+Navegando servidor HTTP/FTP/Github...
+Jogos instalados
+Homebrew instalado
+Ferramentas
+Tickets
+Dados salvos
+Iniciar conexão MTP
+Iniciar servidor FTP...
+Iniciando servidor HTTP...
+Registro de atividades
+Configurações DBI
+Sair
