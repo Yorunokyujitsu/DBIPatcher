@@ -19,8 +19,11 @@ Japanese
 Korean
 Latin American Spanish
 Canadian French
+Brazilian Portuguese
 Chinese Traditional
 Chinese Simplified
+Traditional Chinese
+Simplified Chinese
 Japan
 The Americas
 Europe
