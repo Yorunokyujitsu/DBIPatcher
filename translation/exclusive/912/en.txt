@@ -26,8 +26,8 @@ The Americas
 Europe
 Australia/New Zealand
 Hong Kong/Taiwan/Korea/South East Asia
-emuMMC         : yes
-emuMMC         : no
+emuMMC                : yes
+emuMMC                : no
 No charger
 Full supported power
 Lower power supported USB-PD mode
