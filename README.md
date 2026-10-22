@@ -1,12 +1,12 @@
 # DBI Translation Archive
 An archive of DBI builds translated using DBIPatcher v5.
 
-Full translations for DBI 870–912+ (26 versions included).
-- DBI 814–912 is compatible, but the range is limited to 870–912 for easier translation string management.
-- Translated 1,420 strings and 147 version-specific strings.
+Full translations for DBI 870–920+ (27 versions included).
+- DBI 814–920 is compatible, but the range is limited to 870–920 for easier translation string management.
+- Translated 1,726 strings and 165 version-specific strings.
 - Added Easter egg menu visualization and translation patches.
 - Added language-specific version display patches.
-  - **Example: DBI: 912-KR FW: 23.0.1.E SDK: 23.3.0**
+  - **Example: DBI: 920-KR FW: 23.0.1.E SDK: 23.3.0**
 
 > [!CAUTION]
 > **Author Controversy:**<br>
@@ -58,6 +58,7 @@ dist/dbi_<language>.zip
 <br>
 
 ## Credits
+> DBI: duckbill<br>
 > v1: Morce3232<br>
 > v2: Morce3232, bohdan.buinich, Yorunokyujitsu<br>
 > v3-v5: Yorunokyujitsu<br>
