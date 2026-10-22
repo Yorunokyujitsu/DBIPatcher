@@ -6,24 +6,26 @@ Iowa
 Calcio
 Aula
 Production
-American English
-British English
-French
-German
-Spanish
-Italian
-Dutch
-Portuguese
-Russian
-Japanese
-Korean
-Latin American Spanish
-Canadian French
-Brazilian Portuguese
-Chinese Traditional
-Chinese Simplified
-Traditional Chinese
-Simplified Chinese
+ American English
+ British English
+ Japanese
+ French
+ German
+ Spanish
+ Italian
+ Dutch
+ Portuguese
+ Russian
+ Korean
+ Latin American Spanish
+ Canadian French
+ Chinese Traditional
+ Chinese Simplified
+ Traditional Chinese
+ Simplified Chinese
+ Brazilian Portuguese
+ Polish
+ Thai
 Japan
 The Americas
 Europe
