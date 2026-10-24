@@ -1,0 +1,68 @@
+Tipo de equipamento        : 
+Icosa
+Copper
+Hoag
+Iowa
+Calcio
+Aula
+Produção
+ Inglês americano
+ Inglês britânico
+ Japonês
+ Francês
+ Alemão
+ Espanhol
+ Italiano
+ Holandês
+ Português
+ Russo
+ Coreano
+ Espanhol latino-americano
+ Francês canadense
+ Chinês tradicional
+ Chinês simplificado
+ Chinês tradicional
+ Chinês simplificado
+ Português brasileiro
+ Polonês
+ Tailandês
+Japão
+Américas
+Europa
+Austrália/Nova Zelândia
+Hong Kong/Taiwan/Coreia/Sudeste Asiático
+EmuMMC habilitado              : sim
+EmuMMC habilitado              : não
+Sem carregador
+Potência máxima suportada
+Modo USB-PD de menor potência suportado
+Nenhum modo USB-PD compatível
+Desconhecido
+Tudo está normal
+O estado de energia deve mudar para desligado
+O estado de energia deve mudar para suspensão
+Não é possível ativar os modos de aumento de desempenho
+Temperatura da bateria                : {}°C
+Receptor
+Fonte
+USB Power Delivery
+Porta USB dedicada ao carregamento
+Porta USB de carregamento e dados
+Porta USB padrão de dados
+OTG solicitado                        : sim
+OTG solicitado                        : não
+Temperatura           : {}°C
+Temperatura média     : {}°C
+Orientação                     : 
+Configurações de criação de atalhos
+===================================
+Espaço de endereçamento        : 
+Espaço de endereçamento
+32Bit
+36Bit
+32BitNR
+39Bit
+42Bit
+Usar 4 núcleos da CPU
+Captura de vídeo
+Capturas de tela

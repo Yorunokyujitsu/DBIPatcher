@@ -1,0 +1,68 @@
+Equipment type    : 
+Icosa
+Copper
+Hoag
+Iowa
+Calcio
+Aula
+Production
+ American English
+ British English
+ Japanese
+ French
+ German
+ Spanish
+ Italian
+ Dutch
+ Portuguese
+ Russian
+ Korean
+ Latin American Spanish
+ Canadian French
+ Traditional Chinese
+ Simplified Chinese
+ Chinese Traditional
+ Chinese Simplified
+ Brazilian Portuguese
+ Polish
+ Thai
+Japan
+The Americas
+Europe
+Australia/New Zealand
+Hong Kong/Taiwan/Korea/South East Asia
+emuMMC                : yes
+emuMMC                : no
+No charger
+Full supported power
+Lower power supported USB-PD mode
+No common supported USB-PD modes
+Unknown
+Everything is normal
+Power state should transition to shutdown
+Power state should transition to sleep
+Performance boost modes cannot be entered
+Battery temperature          : {}°C
+Sink
+Source
+USB Power Delivery
+USB Dedicated Charging Port
+USB Charging Downstream Port
+USB Standard Downstream Port
+OTG requested                : yes
+OTG requested                : no
+Temperature         : {}°C
+Average temperature : {}°C
+Orientation                    : 
+Forwarder Creation Settings
+===========================
+Address Space                  : 
+Address Space
+32Bit
+36Bit
+32BitNR
+39Bit
+42Bit
+Use 4 CPU Cores
+Video Capture
+Screenshots
