@@ -3,7 +3,7 @@ An archive of DBI builds translated using DBIPatcher v5.
 
 Full translations for DBI 870–921+ (28 versions included).
 - DBI 814–921 is compatible, but the range is limited to 870–921 for easier translation string management.
-- Translated 1,767 strings and 165 version-specific strings.
+- Translated 1,770 strings and 165 version-specific strings.
 - Added Easter egg menu visualization and translation patches.
 - Added language-specific version display patches.
   - **Example: DBI: 921-KR FW: 23.0.1.E SDK: 23.3.0**
